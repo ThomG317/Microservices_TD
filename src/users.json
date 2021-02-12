@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "name 1",
+    "email": "",
+    "age": 25,
+    "playlist": [],
+    "suggestions": []
+  },
+  {
+    "id": 2,
+    "name": "name 2",
+    "email": "",
+    "age": 22,
+    "playlist": [],
+    "suggestions": []
+  }
+]
